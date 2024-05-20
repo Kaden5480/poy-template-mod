@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../Common.props"/>
+
+  <PropertyGroup>
+    <AssemblyName>TemplateModPatcher</AssemblyName>
+    <Description>A Peaks of Yore template mod (patcher)</Description>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputPath>../bin/patcher/$(Configuration.ToLower())/</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <RootNamespace>TemplateModPatcher</RootNamespace>
+  </PropertyGroup>
+</Project>
+<!-- vim: set et sw=2 ts=2 ft=xml: -->
