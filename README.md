@@ -11,7 +11,7 @@ A template mod for
 - [Installing](#installing)
     - [BepInEx](#bepinex)
     - [MelonLoader](#melonloader)
-- [Building from source](#building)
+- [Building from source](#building-from-source)
     - [Dotnet](#dotnet-build)
     - [Visual Studio](#visual-studio-build)
     - [Custom game locations](#custom-game-locations)
@@ -41,7 +41,7 @@ This is just a template.
 
 ## MelonLoader
 ### MLPatcherPlugin
-Follow the install instructions for MLPatcherPlugin, if you haven't installed already:
+Follow the install instructions for MLPatcherPlugin, if you haven't installed already:<br>
 https://github.com/Kaden5480/ml-patcher-plugin
 
 ### This mod
