@@ -56,5 +56,8 @@ namespace TemplateModPlugin {
          */
         public override void OnSceneWasLoaded(int buildIndex, string sceneName) {
         }
+
+#endif
+
     }
 }
