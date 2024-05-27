@@ -21,16 +21,8 @@ This is just a template.
 
 # Installing
 ## BepInEx
-### Installing BepInEx
-- Download the latest stable win_x64 version of BepInEx
-[here](https://github.com/BepInEx/BepInEx/releases).
-- Find the Peaks of Yore game directory, this is most easily done by going to the game in steam,
-  pressing the settings for the game (⚙️), selecting "Manage", then "Browse local files".
-- Extract the contents of `BepInEx_win_x64_<version>.zip` into your Peaks of Yore game directory.
-- You should now have files/directories such as `BepInEx` and `winhttp.dll`
-  in the same place as `Peaks of Yore.exe` and `UnityPlayer.dll`.
-- Start the game so BepInEx can generate other necessary files for modding.
-- Close the game.
+If you haven't installed BepInEx yet, follow the install instructions
+[here](https://github.com/Kaden5480/modloader-instructions#bepinex)
 
 ### Installing this mod
 - Download the latest BepInEx release
@@ -40,11 +32,11 @@ This is just a template.
 - Copy the files in `plugins` to `BepInEx/plugins` in your game directory.
 
 ## MelonLoader
-### MLPatcherPlugin
-Follow the install instructions for MLPatcherPlugin, if you haven't installed already:<br>
-https://github.com/Kaden5480/ml-patcher-plugin
+If you haven't installed MelonLoader yet, follow the install instructions here:
+- [Windows](https://github.com/Kaden5480/modloader-instructions#melonloader-windows)
+- [Linux](https://github.com/Kaden5480/modloader-instructions#melonloader-linux)
 
-### This mod
+### Installing this mod
 - Download the latest release
 [here](https://github.com/Kaden5480/poy-template-mod/releases).
 - The compressed zip file will contain a `Mods` and `Plugins` directory.

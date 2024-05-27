@@ -1,7 +1,7 @@
-== MelonLoader and MLPatcherPlugin ==
-If you haven't installed MelonLoader and MLPatcherPlugin yet, follow the instructions here:
-Windows: https://github.com/Kaden5480/ml-patcher-plugin#windows
-Linux:   https://github.com/Kaden5480/ml-patcher-plugin#linux
+== MelonLoader ==
+If you haven't installed MelonLoader yet, follow the instructions here:
+Windows: https://github.com/Kaden5480/modloader-instructions#melonloader-windows
+Linux:   https://github.com/Kaden5480/modloader-instructions#melonloader-linux
 
 == Template Mod ==
 Find the Peaks of Yore game directory, this is most easily done

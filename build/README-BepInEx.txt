@@ -1,6 +1,6 @@
 == BepInEx ==
 If you haven't installed BepInEx yet, follow the instructions here:
-https://github.com/Kaden5480/poy-template-mod#bepinex
+https://github.com/Kaden5480/modloader-instructions#bepinex
 
 == Template Mod ==
 Find the Peaks of Yore game directory, this is most easily done
