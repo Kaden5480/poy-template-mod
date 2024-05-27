@@ -22,7 +22,7 @@ This is just a template.
 # Installing
 ## BepInEx
 If you haven't installed BepInEx yet, follow the install instructions
-[here](https://github.com/Kaden5480/modloader-instructions#bepinex)
+[here](https://github.com/Kaden5480/modloader-instructions#bepinex).
 
 ### Installing this mod
 - Download the latest BepInEx release
