@@ -20,17 +20,17 @@ mkdir -p "$BP_DIR"/{patchers,plugins}
 mkdir -p "$ML_DIR"/{Mods,Plugins}
 
 # BepInEx
-cp bin/patcher/release-bepinex/net472/*.dll \
+cp bin/patcher/release-bepinex/net472/${MOD_NAME}Patcher.dll \
     "$BP_DIR/patchers/"
-cp bin/plugin/release-bepinex/net472/*.dll \
+cp bin/plugin/release-bepinex/net472/${MOD_NAME}Plugin.dll \
     "$BP_DIR/plugins/"
 cp build/README-BepInEx.txt "$BP_DIR/README.txt"
 
 # MelonLoader
-cp bin/plugin/release-melonloader/net472/*.dll \
-    "$ML_DIR/Mods/"
-cp bin/patcher/release-melonloader/net472/*.dll \
+cp bin/patcher/release-melonloader/net472/${MOD_NAME}Patcher.dll \
     "$ML_DIR/Plugins/"
+cp bin/plugin/release-melonloader/net472/${MOD_NAME}Plugin.dll \
+    "$ML_DIR/Mods/"
 cp build/README-MelonLoader.txt "$ML_DIR/README.txt"
 
 # Zip everything
