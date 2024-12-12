@@ -42,7 +42,7 @@ using MelonLoader;
 
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(TemplateModPlugin.Plugin), "TemplateModPlugin", "0.1.0", "Kaden5480")]
+[assembly: MelonInfo(typeof(TemplateModPlugin.Plugin), "TemplateModPlugin", PluginInfo.PLUGIN_VERSION, "Kaden5480")]
 [assembly: MelonGame("TraipseWare", "Peaks of Yore")]
 
 namespace TemplateModPlugin {
